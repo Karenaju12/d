@@ -22,8 +22,6 @@
     <label class="form-ver-label" for="para"><font size="+2">𝖌𝖚𝖆𝖗𝖉𝖆𝖗 𝖈𝖔𝖓𝖙𝖗𝖆𝖘𝖊ñ𝖆</font></label>
   </div>
  
-  <font color="black" font size="+2">haz olvidado tu contraseña?</font>
-  </div>
 	 <a href="segundo2.html" class="boton">Ver Perfil</a>
 
   <hr>
