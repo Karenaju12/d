@@ -6,7 +6,7 @@
 
 
 
-<center><font color="#33AFFF"><font size="+8">𝘧𝘢𝘤𝘦𝘣𝘰𝘰𝘬</center>
+<center><font color="#33AFFF"><font size="+8">𝘧𝘢𝘤𝘦𝘣𝘰𝘰𝘬
 	
 <form>
   <div class="mb-3">
