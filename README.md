@@ -21,14 +21,10 @@
     <input type="checkbox" class="form-para-input" id="para">
     <label class="form-ver-label" for="para"><font size="+2">𝖌𝖚𝖆𝖗𝖉𝖆𝖗 𝖈𝖔𝖓𝖙𝖗𝖆𝖘𝖊ñ𝖆</font></label>
   </div>
-  <div>
-  <button class="btn btn-primary"><font size="+2">entrar</button></font>
-  <button class="btn btn-primary"><font size="+2">crear cuenta nueva</button></font>
-<div>
+ 
   <font color="black" font size="+2">haz olvidado tu contraseña?</font>
   </div>
-	  <a href="segundo2.html"class="  btn-primary"></a><font size="+2">click para ver mi perfil</font></a></font></font>
-  <hr>
+	 <a href="segundo2.html" class="boton">Ver Perfil</a>
 
   <hr>
 <img src="https://i.gifer.com/Jzf5.gif">
