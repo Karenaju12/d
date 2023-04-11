@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html>
 <head>
 	<title>red social</title>
@@ -24,23 +24,12 @@
   <div>
   <button class="btn btn-primary"><font size="+2">entrar</button></font>
   <button class="btn btn-primary"><font size="+2">crear cuenta nueva</button></font>
-</div>
 <div>
   <font color="black" font size="+2">haz olvidado tu contraseña?</font>
   </div>
-  <a href="segundo2.html"class="btn btn-primary"><font size="+2">click para ver mi perfil</a></font></font>
+	  <a href="segundo2.html"class="btn btn-primary"></a><font size="+2">click para ver mi perfil</font></a></font></font>
   <hr>
 
-  <audio controls=>
-    
-<source src="cancion.mpeg" type="">
-  </audio>
+  <audio controls=><source src="cancion.mpeg" type=""></audio>
   <hr>
 <img src="https://i.gifer.com/Jzf5.gif">
-</center>
-</form>
-
-</head>
-</body>
-</html>
-<form>
