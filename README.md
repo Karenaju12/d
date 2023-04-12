@@ -24,5 +24,10 @@
 	
 	<a href="segundo2.html" class="boton">Ver Perfil</a>
   <hr>
+	<audio controls=>
+    
+<source src="cancion.mpeg" type="">
+  </audio>
+  <hr>
 <img src="https://i.gifer.com/Jzf5.gif">
   
