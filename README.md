@@ -21,27 +21,9 @@
     <input type="checkbox" class="form-para-input" id="para">
     <label class="form-ver-label" for="para"><font size="+2">𝖌𝖚𝖆𝖗𝖉𝖆𝖗 𝖈𝖔𝖓𝖙𝖗𝖆𝖘𝖊ñ𝖆</font></label>
 	</div>
-  <hr>
-<img src="https://i.gifer.com/Jzf5.gif">
-</div>
-  <div>
-  <button class="btn btn-primary"><font size="+2">entrar</button></font>
-  <button class="btn btn-primary"><font size="+2">crear cuenta nueva</button></font>
-</div>
 	
-<div>
-	<font color="black" font size="+2">haz olvidado tu contraseña?</font></font>
-  </div>
-  <a href="segundo2.html"class="btn btn-primary"><font size="+2">click para ver mi perfil</a></font></font>
-  <hr>
-
-  <audio controls=><source src="cancion.mpeg" type=""></audio>
+	<a href="segundo2.html" class="boton">Ver Perfil</a>
   <hr>
 <img src="https://i.gifer.com/Jzf5.gif">
-</center>
-</form>
-
-</head>
-</body>
-</html>
-<form>
+ <a href="segundo2.html" class="boton">Ver Perfil</a>
+  
