@@ -20,10 +20,7 @@
   <div class="mb-3 form-ver">
     <input type="checkbox" class="form-para-input" id="para">
     <label class="form-ver-label" for="para"><font size="+2">𝖌𝖚𝖆𝖗𝖉𝖆𝖗 𝖈𝖔𝖓𝖙𝖗𝖆𝖘𝖊ñ𝖆</font></label>
-  </div>
- 
-	 <a href="segundo2.html" class="boton">Ver Perfil</a>
-
+	</div>
   <hr>
 <img src="https://i.gifer.com/Jzf5.gif">
 </div>
