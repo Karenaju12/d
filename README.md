@@ -25,5 +25,4 @@
 	<a href="segundo2.html" class="boton">Ver Perfil</a>
   <hr>
 <img src="https://i.gifer.com/Jzf5.gif">
-	<a href="segundo2.html" class="boton">Ver Perfil</a>
   
